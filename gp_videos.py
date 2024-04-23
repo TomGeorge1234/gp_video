@@ -66,5 +66,5 @@ if __name__ == "__main__":
         N_y=N_y,
         N_t=N_t
     )
-    random_hash = str(np.random.randint(1e5))
-    np.savez(f"results/{args.dt}/results.npz", results=results, L_idx=args.L, T_idx=args.T, id=args.i)
+    random_hash = str(np.random.randint(1e8))
+    np.savez(f"results/{args.dt}/{random_hash}.npz", results=results, L_idx=args.L, T_idx=args.T, id=args.i)

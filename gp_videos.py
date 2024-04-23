@@ -4,13 +4,13 @@ from multiprocessing import Pool
 from itertools import product
 from functools import partial
 
-N_x = 10
-N_y = 10
-N_t = 10 
+N_x = 36
+N_y = 36
+N_t = 15 
 Ls = [0.5,1,2,4,8,16,32]
 Ts = [0.5,1,2,4,8,16,32]
 
-def kernel(x1, x2=None, spatial_length_scale=1, temporal_length_scale=1):
+def kernel(x1, x2=None, L=1, T=1):
     """x1 and x2 are arrays of 3D points (x, y, t) of shape (n, 3).ipynb_checkpoints/
     Returns the kernel matrix of the data points of shape (n, n) where the (i, j)th element is the kernel function evaluated at x1[i] and x2[j]."""
     if x2 is None:
@@ -21,22 +21,22 @@ def kernel(x1, x2=None, spatial_length_scale=1, temporal_length_scale=1):
     x2_t = x2[:,2] # N
     d_dist = np.linalg.norm(x1_d[:,np.newaxis,:] - x2_d[np.newaxis,:,:],axis=2) # N,N
     t_dist = np.abs(x1_t[:,np.newaxis] - x2_t[np.newaxis,:]) # N,N    
-    exp_d = np.exp(- d_dist**2 / (2*(spatial_length_scale**2))) # N,N
-    exp_t = np.exp(- t_dist**2 / temporal_length_scale) # N,N
+    exp_d = np.exp(- d_dist**2 / (2*(L**2))) # N,N
+    exp_t = np.exp(- t_dist**2 / (2*(T**2))) # N,N
+
     return exp_d * exp_t
 
-def sample_video(spatial_length_scale, temporal_length_scale, N_x=10, N_y=10, N_t=5):
+def sample_video(L, T, N_x=10, N_y=10, N_t=5):
     # Get coordinates of 3D space-time points
     x = np.arange(N_x)
     y = np.arange(N_y)
     t = np.arange(N_t)
-    X, Y, T = np.meshgrid(x, y, t)
-    coords = np.array([X,Y,T])
+    X_, Y_, T_ = np.meshgrid(x, y, t)
+    coords = np.array([X_,Y_,T_])
     coords_shape = (N_x, N_y, N_t)
     coords = coords.reshape(3,-1) # flatten into 2D
-    
     # Calculate kernel matrix
-    K = kernel(coords.T, spatial_length_scale=spatial_length_scale, temporal_length_scale=temporal_length_scale)
+    K = kernel(coords.T, L=L, T=T)
     
     # Sample from N(0,K) using Cholesky decomposition
     L = np.linalg.cholesky(K + 1e-8*np.eye(K.shape[0]))
@@ -60,8 +60,8 @@ if __name__ == "__main__":
     T = Ts[args.T]
     
     results = sample_video(
-        spatial_length_scale=L,
-        temporal_length_scale=T,
+        L=L,
+        T=T,
         N_x=N_x,
         N_y=N_y,
         N_t=N_t

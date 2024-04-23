@@ -53,7 +53,7 @@ if __name__ == "__main__":
     parser.add_argument("--L", type=int, default=1.0)
     parser.add_argument("--T", type=int, default=1.0)
     parser.add_argument("--i", type=int, default=10)
-    parser.add_argument("--date", type=str, default=10)
+    parser.add_argument("--dt", type=str, default=10)
 
     args = parser.parse_args()
     L = Ls[args.L]
@@ -67,4 +67,4 @@ if __name__ == "__main__":
         N_t=N_t
     )
     random_hash = str(np.random.randint(1e5))
-    np.savez(f"results/result_{args.date}/results.npz", results=results, L_idx=args.L, T_idx=args.T, id=args.i)
+    np.savez(f"results/result_{args.dt}/results.npz", results=results, L_idx=args.L, T_idx=args.T, id=args.i)

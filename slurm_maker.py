@@ -40,6 +40,6 @@ with open("slurm_script.sh","a") as new:
     for n_i in N_I:
         for n_l in N_L:
             for n_t in N_T:
-                new.write(f"srun --ntasks=1 --nodes=1 python gp_videos.py --L {n_l} --T {n_t} --i {n_i} &")
+                new.write(f"srun --ntasks=1 --nodes=1 python gp_videos.py --L {n_l} --T {n_t} --i {n_i} --dt {date_time} &")
                 new.write("\n")
     new.write("wait") #stops the script from exiting until all the srun commands have finished

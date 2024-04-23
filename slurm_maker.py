@@ -25,8 +25,8 @@ pre_schpeel = [
 "#!/bin/bash \n",
 "#SBATCH --job-name=hpsweep              #name of the job to find when calling >>>sacct or >>>squeue \n",
 "#SBATCH --ntasks=%g                  #how many independent script you are hoping to run \n" %N_SCRIPTS,
-"#SBATCH --time=20:00:00                         #compute time \n",
-"#SBATCH --mem=50G \n",
+"#SBATCH --time=1:00:00                         #compute time \n",
+"#SBATCH --mem=40G \n",
 "#SBATCH --cpus-per-task=1 \n",
 "#SBATCH --output=./logs/%j.log                  #where to save output log files (julia script prints here) \n",
 "#SBATCH --error=./logs/%j.err                   #where to save output error files \n"

@@ -4,9 +4,9 @@ from multiprocessing import Pool
 from itertools import product
 from functools import partial
 
-N_x = 20
-N_y = 20
-N_t = 15 
+N_x = 36
+N_y = 36
+N_t = 20 
 Ls = [0.5,1,2,4,8,16,32]
 Ts = [0.5,1,2,4,8,16,32]
 

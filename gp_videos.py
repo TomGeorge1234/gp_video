@@ -67,4 +67,4 @@ if __name__ == "__main__":
         N_t=N_t
     )
     random_hash = str(np.random.randint(1e5))
-    np.savez(f"results/result_{args.dt}/results.npz", results=results, L_idx=args.L, T_idx=args.T, id=args.i)
+    np.savez(f"results/{args.dt}/results.npz", results=results, L_idx=args.L, T_idx=args.T, id=args.i)

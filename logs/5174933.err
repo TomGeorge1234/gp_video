@@ -1,0 +1,619 @@
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc1-node10: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.9
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174933
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node1: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.21
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174933
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node1: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.28
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174933
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174933 step creation still disabled, retrying (Requested nodes are busy)
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+slurmstepd-enc1-node7: error: *** STEP 5174933.6 ON enc1-node7 CANCELLED AT 2024-04-24T10:19:28 ***
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+slurmstepd-enc2-node7: error: *** STEP 5174933.14 ON enc2-node7 CANCELLED AT 2024-04-24T10:19:28 ***
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+slurmstepd-enc2-node10: error: *** STEP 5174933.17 ON enc2-node10 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc2-node11: error: *** STEP 5174933.18 ON enc2-node11 CANCELLED AT 2024-04-24T10:19:28 ***
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+slurmstepd-enc1-node4: error: *** STEP 5174933.3 ON enc1-node4 CANCELLED AT 2024-04-24T10:19:28 ***
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+slurmstepd-gpu-380-25: error: *** STEP 5174933.26 ON gpu-380-25 CANCELLED AT 2024-04-24T10:19:28 ***
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: enc2-node9: task 0: Terminated
+srun: error: enc1-node11: task 0: Terminated
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: enc3-node6: task 0: Terminated
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: enc1-node7: task 0: Terminated
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.6
+srun: error: enc3-node2: task 0: Terminated
+srun: error: enc1-node9: task 0: Terminated
+srun: error: enc1-node8: task 0: Terminated
+srun: error: enc2-node11: task 0: Terminated
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.18
+srun: error: enc1-node10: task 0: Terminated
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.16
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.10
+srun: error: enc1-node2: task 0: Terminated
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.1
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.8
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.7
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.22
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.27
+srun: error: enc1-node6: task 0: Terminated
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.5
+srun: error: enc1-node4: task 0: Terminated
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: gpu-380-25: task 0: Terminated
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.26
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: enc1-node1: task 0: Terminated
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.0
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+slurmstepd-enc2-node9: error: *** STEP 5174933.16 ON enc2-node9 CANCELLED AT 2024-04-24T10:19:28 ***
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+slurmstepd-enc1-node8: error: *** STEP 5174933.7 ON enc1-node8 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc1-node9: error: *** STEP 5174933.8 ON enc1-node9 CANCELLED AT 2024-04-24T10:19:28 ***
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+slurmstepd-enc1-node10: error: *** STEP 5174933.27 ON enc1-node10 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc1-node11: error: *** STEP 5174933.10 ON enc1-node11 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc2-node8: error: *** STEP 5174933.15 ON enc2-node8 CANCELLED AT 2024-04-24T10:19:28 ***
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+slurmstepd-enc3-node6: error: *** STEP 5174933.23 ON enc3-node6 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc1-node12: error: *** STEP 5174933.11 ON enc1-node12 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc1-node13: error: *** STEP 5174933.12 ON enc1-node13 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc2-node13: error: *** STEP 5174933.20 ON enc2-node13 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc1-node2: error: *** STEP 5174933.1 ON enc1-node2 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc1-node5: error: *** STEP 5174933.4 ON enc1-node5 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc1-node14: error: *** STEP 5174933.13 ON enc1-node14 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc3-node7: error: *** STEP 5174933.24 ON enc3-node7 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc3-node1: error: *** STEP 5174933.29 ON enc3-node1 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc1-node6: error: *** STEP 5174933.5 ON enc1-node6 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc2-node12: error: *** STEP 5174933.19 ON enc2-node12 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc3-node8: error: *** STEP 5174933.25 ON enc3-node8 CANCELLED AT 2024-04-24T10:19:28 ***
+srun: error: Unable to create step for job 5174933: Job/step already completing or completed
+slurmstepd-enc1-node3: error: *** STEP 5174933.2 ON enc1-node3 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc3-node2: error: *** STEP 5174933.22 ON enc3-node2 CANCELLED AT 2024-04-24T10:19:28 ***
+slurmstepd-enc1-node1: error: *** STEP 5174933.0 ON enc1-node1 CANCELLED AT 2024-04-24T10:19:28 ***
+srun: error: enc1-node5: task 0: Terminated
+srun: error: enc1-node13: task 0: Terminated
+srun: error: enc2-node7: task 0: Terminated
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.12
+srun: error: enc2-node8: task 0: Terminated
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.14
+srun: error: enc1-node14: task 0: Terminated
+srun: got SIGCONT
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.13
+srun: error: enc2-node12: task 0: Terminated
+srun: error: enc2-node10: task 0: Terminated
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.19
+srun: error: enc3-node8: task 0: Terminated
+srun: error: enc3-node7: task 0: Terminated
+srun: error: enc2-node13: task 0: Terminated
+srun: error: enc1-node12: task 0: Terminated
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.20
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.23
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.11
+slurmstepd-enc1-node1: error: *** JOB 5174933 ON enc1-node1 CANCELLED AT 2024-04-24T10:19:28 ***
+srun: error: enc1-node3: task 0: Terminated
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.3
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.2
+srun: got SIGCONT
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.24
+srun: got SIGCONT
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.4
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.25
+srun: error: enc3-node1: task 0: Terminated
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.17
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.15
+srun: launch/slurm: _step_signal: Terminating StepId=5174933.29
+srun: forcing job termination
+srun: forcing job termination
+srun: forcing job termination
+srun: forcing job termination
+srun: forcing job termination

@@ -1,0 +1,2542 @@
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node7: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.0
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node1: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.12
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: gpu-380-25: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.24
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node2: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.27
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node7: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.28
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node13: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.32
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node2: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.33
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node2: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.36
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node4: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.37
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node2: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.38
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node4: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.39
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: gpu-380-25: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.42
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node10: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.44
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node10: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.45
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: error: enc3-node1: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.49
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: gpu-380-25: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.54
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node2: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.56
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node9: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.59
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: error: enc2-node12: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.62
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node12: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.66
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: error: gpu-380-25: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.67
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: error: gpu-380-25: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.69
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node2: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.72
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node2: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.73
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node4: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.87
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node8: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.92
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node8: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.93
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node1: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.95
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node7: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.107
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: gpu-380-25: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.111
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node10: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.114
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node4: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.116
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node4: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.117
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node13: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.120
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node8: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.123
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node8: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.126
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node2: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.129
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node2: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.130
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node10: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.135
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node13: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.146
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node13: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.149
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node4: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.152
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node8: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.153
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: gpu-380-25: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.156
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node1: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.160
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node1: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.161
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: gpu-380-25: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.167
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: gpu-380-25: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.168
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node10: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.175
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node9: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.176
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: error: enc2-node10: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.178
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node1: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.181
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node13: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.182
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node4: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.188
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node10: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.192
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node7: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.202
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node10: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.205
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node13: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.206
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node12: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.211
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: error: enc2-node12: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.212
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 79, in <module>
+    T = Ts[args.T]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: gpu-380-25: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.215
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc2-node8: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.220
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node2: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.226
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: enc3-node1: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.229
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+Traceback (most recent call last):
+  File "/nfs/nhome/live/tgeorge/gp_video/gp_videos.py", line 78, in <module>
+    L = Ls[args.L]
+        ~~^^^^^^^^
+IndexError: list index out of range
+srun: error: gpu-380-25: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5174923.235
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923
+srun: Job 5174923 step creation still disabled, retrying (Requested nodes are busy)
+srun: Step created for job 5174923

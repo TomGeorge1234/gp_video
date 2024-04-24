@@ -1,12 +1,13 @@
 import numpy as np 
+import jax.numpy as jnp
 # multiprocessing 
 from multiprocessing import Pool
 from itertools import product
 from functools import partial
 
-N_x = 36
-N_y = 36
-N_t = 60 
+N_x = 10
+N_y = 10
+N_t = 10 
 Ls = [0.5,1,2,4,8,16,32]
 Ts = [0.5,1,2,4,8,16,32]
 
@@ -37,9 +38,10 @@ def sample_video(L, T, N_x=10, N_y=10, N_t=5):
     coords = coords.reshape(3,-1) # flatten into 2D
     # Calculate kernel matrix
     K = kernel(coords.T, L=L, T=T)
-    
+    K = jnp.array(K)
     # Sample from N(0,K) using Cholesky decomposition
-    L = np.linalg.cholesky(K + 1e-8*np.eye(K.shape[0]))
+    L = jnp.linalg.cholesky(K + 1e-8*jnp.eye(K.shape[0]))
+    L = np.array(L)
     N = np.random.normal(size=(K.shape[0]))
     V = np.dot(L, N)
     V = V.reshape(coords_shape)

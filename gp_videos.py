@@ -9,8 +9,8 @@ from functools import partial
 N_x = 36
 N_y = 36
 N_t = 60 
-Ls = [0.5,1,2,4,8,16,32]
-Ts = [0.5,1,2,4,8,16,32]
+Ls = [1,2,4,8,16,32]
+Ts = [1,2,4,8,16,32]
 
 def kernel(x1, x2=None, L=1, T=1):
     """x1 and x2 are arrays of 3D points (x, y, t) of shape (n, 3).ipynb_checkpoints/

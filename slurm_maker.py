@@ -1,4 +1,3 @@
-#Run this script with --quick handle to get a shorter version of the full script >>> python slurm_maker.py --quick 
 import subprocess
 import numpy as np 
 subprocess.run("rm slurm_script.sh", shell=True)

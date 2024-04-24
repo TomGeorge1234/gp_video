@@ -1,20 +1,16 @@
 import numpy as np 
-import jax.numpy as jnp
 import scipy
-# multiprocessing 
-from multiprocessing import Pool
-from itertools import product
-from functools import partial
 
-N_x = 36
-N_y = 36
-N_t = 60 
-Ls = [1,2,4,8,16,32]
-Ts = [1,2,4,8,16,32]
+N_x = 36 # no. position bins (x)
+N_y = 36 # no. position bins (y)
+N_t = 60 # no. time bins
+Ls = [1,2,4,8,16,32] # decoherence length scale (pixels)
+Ts = [1,2,4,8,16,32] # decoherence time scale (frames)
 
 def kernel(x1, x2=None, L=1, T=1):
-    """x1 and x2 are arrays of 3D points (x, y, t) of shape (n, 3).ipynb_checkpoints/
-    Returns the kernel matrix of the data points of shape (n, n) where the (i, j)th element is the kernel function evaluated at x1[i] and x2[j]."""
+    """x1 and x2 are arrays of 3D points [x, y, t] of shape (n, 3). 
+    Returns the kernel matrix of the data points of shape (n, n) where the (i, j)th element is the kernel function evaluated at x1[i] and x2[j].
+    The kernel is a product of a spatial and temporal Gaussian kernel of sigmas L and T respectively."""
     if x2 is None:
         x2 = x1
     x1_d = x1[:,:2] # N,2 
@@ -25,12 +21,12 @@ def kernel(x1, x2=None, L=1, T=1):
     t_dist = np.abs(x1_t[:,np.newaxis] - x2_t[np.newaxis,:]) # N,N    
     exp_d = np.exp(- d_dist**2 / (2*(L**2))) # N,N
     exp_t = np.exp(- t_dist**2 / (2*(T**2))) # N,N
-
     return exp_d * exp_t
 
 def sample_video(L, T, N_x=10, N_y=10, N_t=5):
-    # Get coordinates of 3D space-time points
-    # assert they are odd numbers
+    """Samples a video of shape (N_x, N_y, N_t) from a Gaussian process."""
+
+    # coordinates of the final video
     x = np.arange(N_x)
     y = np.arange(N_y)
     t = np.arange(N_t)
@@ -39,7 +35,7 @@ def sample_video(L, T, N_x=10, N_y=10, N_t=5):
     coords_shape = (N_x, N_y, N_t)
     coords = coords.reshape(3,-1) # flatten into 2D
 
-    # half coordinates (every other point)
+    # half coordinates (every other point), well interpolate up to full resolution later
     xh = np.arange(N_x + (N_x%2==0))[::2]; N_xh = len(xh)
     yh = np.arange(N_y + (N_y%2==0))[::2]; N_yh = len(yh)
     th = np.arange(N_t + (N_t%2==0))[::2]; N_th = len(th)
@@ -50,11 +46,9 @@ def sample_video(L, T, N_x=10, N_y=10, N_t=5):
     
     # Calculate kernel matrix
     K = kernel(coordsh.T, L=L, T=T)
-    print(K.shape)
-    # K = np.array(K)
-    # Sample from N(0,K) using Cholesky decomposition
-    L = np.linalg.cholesky(K + 1e-8*np.eye(K.shape[0]))
-    # L = np.array(L)
+
+    # To sample from a Gaussian N(0,K) is very time consuming. It turns out if you can calculte the cholesky decomposition of K = LL^T, then you can sample from N(0,K) by computing N(0,I) and multiplying by L. see https://rinterested.github.io/statistics/multivariate_normal_draws
+    L = np.linalg.cholesky(K + 1e-8*np.eye(K.shape[0])) # this is the expensive step, borderline possible for dim(K) < 20,000, after this...good luck! The problem is memory.
     N = np.random.normal(size=(K.shape[0]))
     V = np.dot(L, N)
     V = V.reshape(coordsh_shape)
@@ -66,24 +60,24 @@ def sample_video(L, T, N_x=10, N_y=10, N_t=5):
 
 if __name__ == "__main__":
 
-    # Get inputs from command line 
+    # Get L, T, i and dt from command line arguments
+    # L and T are indices for the Ls and Ts arrays, selecting the decoherence length and time scales
+    # i is a repeat index. It's not used but will be saved with the output so you can remember this is the i'th run of the script
+    # dt is the date and time of the script run, used to find the folder where to save the output
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument("--L", type=int, default=1.0)
     parser.add_argument("--T", type=int, default=1.0)
     parser.add_argument("--i", type=int, default=10)
     parser.add_argument("--dt", type=str, default=10)
-
     args = parser.parse_args()
-    L = Ls[args.L]
-    T = Ts[args.T]
     
     results = sample_video(
-        L=L,
-        T=T,
+        L=Ls[args.L],
+        T=Ts[args.T],
         N_x=N_x,
         N_y=N_y,
         N_t=N_t
     )
-    random_hash = str(np.random.randint(1e8))
+    random_hash = str(np.random.randint(1e8)) # save the results with a random hash to avoid overwriting
     np.savez(f"results/{args.dt}/{random_hash}.npz", results=results, L_idx=args.L, T_idx=args.T, id=args.i)

@@ -8,8 +8,8 @@ args = parser.parse_args()
 
 #enter sweep ranges here:
 N_I = [0,1,2,3,4]
-N_L = [0,1,2,3,4,5,6]
-N_T = [0,1,2,3,4,5,6]
+N_L = [0,1,2,3,4,5]
+N_T = [0,1,2,3,4,5]
 
 # get date and tiem in format DDMMYYYY_HHMM using time library
 import time
